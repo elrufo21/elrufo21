@@ -6,7 +6,6 @@ const rufdev={
   code:['Python','Java','Javascript','C++','HTML','PHP','CSS']
 }
 ```
-You can find me🌎:
 - [Youttube](https://www.youtube.com/channel/UC1rQ_7-V2P6GrSJFt3Vi8yg)
 - [Instagram](https://www.instagram.com/rufodari/)
 
