@@ -1,2 +1,23 @@
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" /> </p>
-<p align="center"> <img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&config.timezone=America/Lima" /> </p>
+# 🖥️ Ruben Dario
+
+> `Full Stack Developer`
+
+---
+
+## 👾 About
+
+Full Stack Developer with **3+ years of experience** building **ERP and POS systems**,  
+automation solutions, and scalable business platforms.
+
+Focused on **JavaScript, TypeScript, React, Node.js, and Python**.  
+Self-taught, results-driven, and passionate about clean, efficient systems.
+
+---
+
+## 🧰 Stack
+
+```txt
+JavaScript · TypeScript
+React · Node.js · Python
+PostgreSQL · SQL Server
+Electron
