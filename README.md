@@ -1,4 +1,3 @@
-
 # Hi, I'm Rubén Dario 👋
 
 🚀 **Full Stack JavaScript Developer** with experience building **web applications, desktop software, and scalable backend systems**.  
@@ -46,6 +45,22 @@ I focus on clean architecture, solid business logic, and high-quality user exper
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🧩 What I Build
 
 - 🌐 Full Stack Web Applications
@@ -69,7 +84,7 @@ I focus on clean architecture, solid business logic, and high-quality user exper
 
 ## 📫 Contact
 
-- 💼 GitHub: https://github.com/your-username
+- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME
 - ✉️ Email: your-email@email.com
 
 ---
