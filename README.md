@@ -1,92 +1,39 @@
-# Hi, I'm Rubén Dario 👋
-
-🚀 **Full Stack JavaScript Developer** with experience building **web applications, desktop software, and scalable backend systems**.  
-I focus on clean architecture, solid business logic, and high-quality user experiences.
-
----
-
-## 🧠 About Me
-
-- 💻 Full Stack Developer (JavaScript)
-- ⚙️ Strong experience with modern architectures and REST APIs
-- 🖥️ Desktop application development using Electron
-- 📊 Database-oriented development with complex business logic
-- 🔁 Always improving code quality and best practices
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- **JavaScript (ES6+)**
-- **React**
-- HTML5 · CSS3 · Tailwind CSS
-- Vite · Webpack
-
-### Backend
-- **Node.js**
-- **Express.js**
-- REST APIs
-- Authentication & authorization
-
-### Desktop
-- **Electron.js**
-- Frontend + Backend integration
-
-### Databases
-- **PostgreSQL**
-- **SQL Server**
-- Schema design
-- Stored procedures & optimized queries
-
-### Additional Languages
-- **C#**
-- .NET ecosystem
-
----
-
-## 📊 GitHub Stats
-
+<h1 align="center">Hi, I'm Rubén 👋</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  Full Stack JavaScript Developer · React · Node · Electron
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue" />
 </p>
 
 ---
 
-## 🧩 What I Build
+### 🚀 Stack
 
-- 🌐 Full Stack Web Applications
-- 🖥️ Cross-platform Desktop Applications
-- 📦 Admin Systems (billing, inventory, payments)
-- 📄 PDF generation & reports
-- 🔐 Role-based systems
-- 📊 Dashboards & admin panels
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,electron,postgres,mysql,dotnet,cs" />
+</p>
 
 ---
 
-## 📌 Development Principles
+### 📊 GitHub Stats
 
-- Clean and readable code
-- Clear separation of concerns
-- Reusable components
-- Scalable database design
-- Performance-focused solutions
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+</p>
 
----
-
-## 📫 Contact
-
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- ✉️ Email: your-email@email.com
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-⭐ _Always open to new challenges and exciting projects._
+### 🧠 What I Do
+
+```txt
+• Full Stack Web Apps
+• Desktop Apps (Electron)
+• REST APIs
+• SQL-driven systems
